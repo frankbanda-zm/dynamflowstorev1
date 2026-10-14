@@ -1,0 +1,11 @@
+# Dynamflow Store - robots.txt
+# Search engines are welcome to read every page of the shop.
+
+User-agent: *
+Allow: /
+
+# Addresses that should not be indexed are marked with a "noindex" tag
+# in the page itself (for example 404.html).
+
+# The full list of pages for search engines:
+Sitemap: https://dynamflowstore.com/sitemap.xml
